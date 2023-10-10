@@ -10,6 +10,6 @@
   "author": "Alex Mootz",
   "license": "UNLICENSED",
   "dependencies": {
-    "stellar-base": "9.0.0-soroban.3"
+    "stellar-base": "10.0.0-beta.3"
   }
 }
